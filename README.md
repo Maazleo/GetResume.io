@@ -56,7 +56,7 @@ Visit [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## 🌐 Live Demo
 
-> **Try it live:** [https://your-live-demo-link.com](https://your-live-demo-link.com)
+> **Try it live:** [https://getresumeio.netlify.app/](https://getresumeio.netlify.app/)
 >
 > _Replace this link with your deployed site (see below for deployment instructions)._
 
@@ -99,13 +99,6 @@ You can deploy this app for free using [Vercel](https://vercel.com/), [Netlify](
 
 ---
 
-## 📸 Screenshots
-
-| Resume Builder | Live Preview | Download/Share |
-|:-------------:|:------------:|:--------------:|
-| ![Builder](./screenshots/builder.png) | ![Preview](./screenshots/preview.png) | ![Download](./screenshots/download.png) |
-
----
 
 ## 🤝 Contributing
 
@@ -131,10 +124,3 @@ Inspired by modern resume builders and a desire to make resume creation fast, be
 
 ---
 
-## 📬 Contact
-
-For questions or feedback, open an issue or reach out via [your-email@example.com](mailto:your-email@example.com).
-
----
-
-> _Made with ❤️ using React and styled-components._
